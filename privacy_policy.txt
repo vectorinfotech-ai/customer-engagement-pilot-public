@@ -46,7 +46,7 @@ Security
 I prioritize the security of your data and use industry-standard practices to protect it. However, no method of digital storage or transmission is 100% secure. I cannot guarantee absolute data security.
 
 Children's Privacy
-My apps are not intended for use by anyone under the age of 13. I do not knowingly collect data from children under 13. If I discover such data, I will delete it immediately. Parents or guardians who become aware of such an incident should contact me directly.
+My apps are not intended for use by anyone under the age of 13. I do not knowingly collect data from children under 13. If I discover such data, I will delete it immediately. Parents or guardians who become aware of such an incident should contact us directly.
 
 Links to Other Sites
 My apps may contain links to external websites. I am not responsible for the privacy practices or content of third-party sites. Please review their Privacy Policies before interacting with them.
@@ -57,5 +57,5 @@ This Privacy Policy may be updated periodically. Updates will be posted on this 
 Effective Date: 15 November 2025
 
 Contact Us
-For inquiries or concerns regarding this Privacy Policy, you can reach me at:
-Email: yikiat.koh@vectorinfotech.com
+For inquiries or concerns regarding this Privacy Policy, you can reach us at:
+Email: yikiat.koh@vectorinfotech.com; it.dept@vectorinfotech.com
