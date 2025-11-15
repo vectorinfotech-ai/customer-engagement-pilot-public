@@ -1,0 +1,61 @@
+- I collect as little data as possible.
+- Collected data is never linked to users unless explicitly required for app functionality.
+- I don't sell data.
+- I don't use ads for any apps or games.
+
+Services and Definitions
+This Privacy Policy applies to apps and services developed by Vector Dev, including:
+- "customer-engagement-pilot" Meta Application.
+- "customer-engagement-pilot" webhook.
+
+These software and *services* are provided for free, and are offered *as is* without warranty of any kind. Additional services might be provided at a cost; please refer to indications within individual products.
+
+customer-engagement-pilot is a *free* service.
+
+Privacy Policy
+This Privacy Policy informs users about my policies regarding the collection, use, and disclosure of personal and sensitive user information when using any of my apps or services.
+
+By using my apps, you agree to the collection and use of information as described in this policy. The Personal Information I collect is used solely to improve the services and functionality of my apps and is not shared or used beyond the stated purposes.
+
+Information Collection and Use
+To enhance user experience, I may collect specific types of data, including:
+- Device-related information, such as Whatsapp Phone Number, IP address, operating system, and app version.
+- Usage data, such as app activity logs, crash reports, and performance metrics.
+
+Log Data
+In case of errors, I may collect Log Data via third-party services. This data may include device-related information such as:
+- Internet Protocol (“IP”) address.
+- Device name and operating system version.
+- App configuration details at the time of the error.
+- Time and date of use, along with usage statistics.
+
+Cookies
+This app does not explicitly use cookies. However, third-party libraries integrated into the app may use cookies to improve their functionality. You can choose to accept or refuse these cookies via your device settings. Note that refusing cookies may limit app functionality.
+
+Service Providers
+I may employ third-party companies for the following reasons:
+- To assist in the development and maintenance of the Service.
+- To facilitate user support and analytics.
+
+These third parties may have access to personal information to perform their assigned tasks. However, they are contractually obligated not to use or disclose it for any other purpose.
+
+Data Retention and Deletion Policy
+I retain user data only as long as necessary to fulfill the app's functionality or comply with legal requirements. Data such as crash logs is automatically purged after a limited period. Users may request data deletion via the contact details below.
+
+Security
+I prioritize the security of your data and use industry-standard practices to protect it. However, no method of digital storage or transmission is 100% secure. I cannot guarantee absolute data security.
+
+Children's Privacy
+My apps are not intended for use by anyone under the age of 13. I do not knowingly collect data from children under 13. If I discover such data, I will delete it immediately. Parents or guardians who become aware of such an incident should contact me directly.
+
+Links to Other Sites
+My apps may contain links to external websites. I am not responsible for the privacy practices or content of third-party sites. Please review their Privacy Policies before interacting with them.
+
+Changes to This Privacy Policy
+This Privacy Policy may be updated periodically. Updates will be posted on this page with a revised "effective date." Users are encouraged to review the policy regularly.
+
+Effective Date: 15 November 2025
+
+Contact Us
+For inquiries or concerns regarding this Privacy Policy, you can reach me at:
+Email: yikiat.koh@vectorinfotech.com
